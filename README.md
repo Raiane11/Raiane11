@@ -2,7 +2,7 @@
 😊 Olá, me chamo Raiane Gomes!<br>🚀 Estou perto de me formar como Dev. FullStack Jr.<br>🕮 Atualmente estou aprendendo sobre BackEnd.
 
 
-## 🌐 Socials:
+## 🌐 Sociais:
  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://instagram.com/raigx?igshid=NTE5MzUyOTU=) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/raiane-gomes-b77462229) 
 
 # 💻 Tech Stack:
