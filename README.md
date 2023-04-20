@@ -1,5 +1,5 @@
 # 💫 About Me:
-😊 Olá, me chamo Raiane Gomes!<br>🚀 Recentemente formada como Dev. FullStack Jr. pela empresa Resilia.<br>🕮 Atualmente estou aprendendo sobre BackEnd.
+😊 Olá, me chamo Raiane Gomes!<br>🚀 Recentemente formada como Dev. FullStack Jr. pela empresa Resilia.<br>🕮 Atualmente estou estudando sobre BackEnd.
 
 
 ## 🌐 Socials:
