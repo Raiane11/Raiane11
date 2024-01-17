@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 👩🏽‍💻 About Me:
 😊 Hello, my name is Raiane Gomes!<br> 🚀 I'm in the process of becoming a Jr. FullStack Dev.<br> 🕮 Currently, I am studying about BackEnd.
 
 
