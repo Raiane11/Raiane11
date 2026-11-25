@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou a Raiane Gomes 👋🏽 · Hi, I'm Raiane Gomes</h1>
 
 <p align="center">
-  Estudante de Análise e Desenvolvimento de Sistemas · Desenvolvedora front-end em formação · Interessada em ciência de dados e astronomia 🔭<br>
+  Estudante de Análise e Desenvolvimento de Sistemas · Desenvolvedora front-end · Interessada em ciência de dados e astronomia 🔭<br>
   <i>Systems Analysis & Development student · Front-end developer in training · Interested in data science and astronomy</i>
 </p>
 
